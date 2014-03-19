@@ -2,3 +2,5 @@ commit #2 (master)
 
 commit #4 (master)
 commit #1 (local feature branch)
+
+commit #3 (local feature branch)
